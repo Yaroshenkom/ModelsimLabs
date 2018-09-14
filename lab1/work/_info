@@ -1,0 +1,24 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\Quartus2
+vmult_acc
+!i10b 1
+Z1 !s100 9_M2eI^7Z189iG[HQcDFK2
+Z2 INI2L3`[f79l39eU@Yizz93
+Z3 VG38ASH?:do@7YIQ1Z>fS02
+Z4 dD:\ModelsimLabs\lab1
+Z5 w1263993978
+Z6 8D:/ModelsimLabs/Verilog/Exercises/Info_for_practic/Lab1/mult_acc.v
+Z7 FD:/ModelsimLabs/Verilog/Exercises/Info_for_practic/Lab1/mult_acc.v
+L0 3
+Z8 OV;L;10.1d;51
+r1
+!s85 0
+31
+!s108 1521009609.189000
+!s107 D:/ModelsimLabs/Verilog/Exercises/Info_for_practic/Lab1/mult_acc.v|
+Z9 !s90 -reportprogress|300|-work|work|D:/ModelsimLabs/Verilog/Exercises/Info_for_practic/Lab1/mult_acc.v|
+!s101 -O0
+Z10 o-work work -O0

@@ -1,0 +1,44 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\ModelsimLabs\KR2\Task1
+vlshifter
+Z1 !s100 aj9415bJzcULDj:N1b>VT1
+Z2 I0RLT[f[8i1zl5mzjCUeDn0
+Z3 VCblOR4dR[kJRXI1Eh^SBA0
+Z4 dD:\ModelsimLabs\KR2\Task2
+Z5 w1526470553
+Z6 8D:\ModelsimLabs\KR2\Task2\lshifter.v
+Z7 FD:\ModelsimLabs\KR2\Task2\lshifter.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|D:\ModelsimLabs\KR2\Task2\lshifter.v|
+Z10 o-work work -O0
+!i10b 1
+!s85 0
+Z11 !s108 1526471220.057000
+Z12 !s107 D:\ModelsimLabs\KR2\Task2\lshifter.v|
+!s101 -O0
+vTest
+!i10b 1
+!s100 ZAJVcRfASVaNN210bkA:l3
+IhmTkUSUZlGL<N92O_cG[>0
+VdelczH_j>n<OXXnh3CiSG1
+R4
+w1526471211
+8D:\ModelsimLabs\KR2\Task2\Test.v
+FD:\ModelsimLabs\KR2\Task2\Test.v
+L0 3
+R8
+r1
+!s85 0
+31
+!s108 1526471220.258000
+!s107 D:\ModelsimLabs\KR2\Task2\Test.v|
+!s90 -reportprogress|300|-work|work|D:\ModelsimLabs\KR2\Task2\Test.v|
+!s101 -O0
+R10
+n@test

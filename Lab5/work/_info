@@ -1,0 +1,44 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\ModelsimLabs\lab4\Task2
+vALU
+Z1 !s100 KjCcLQM7=TTA^FW`Nimb92
+Z2 IeidGng`obL9[a^>HIWXC63
+Z3 Ve^H9^ZKIIC6e`D:MBLT3g0
+Z4 dD:\ModelsimLabs\Lab5
+Z5 w1524636821
+Z6 8D:\ModelsimLabs\Lab5\ALU.v
+Z7 FD:\ModelsimLabs\Lab5\ALU.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|D:\ModelsimLabs\Lab5\ALU.v|
+Z10 o-work work -O0
+Z11 n@a@l@u
+!i10b 1
+!s85 0
+Z12 !s108 1524637986.135000
+Z13 !s107 D:\ModelsimLabs\Lab5\ALU.v|
+!s101 -O0
+vtest
+!i10b 1
+Z14 !s100 lLHN?TdS2Ak6P9:7Gc;RZ2
+Z15 IL_E?f35[UGIP;FnN`5U^Z3
+Z16 VUb4^>_F;:DPnM2:8DK;_>0
+R4
+Z17 w1524637954
+Z18 8D:/ModelsimLabs/Lab5/test.v
+Z19 FD:/ModelsimLabs/Lab5/test.v
+L0 3
+R8
+r1
+!s85 0
+31
+!s108 1524637986.325000
+!s107 D:/ModelsimLabs/Lab5/test.v|
+Z20 !s90 -reportprogress|300|-work|work|D:/ModelsimLabs/Lab5/test.v|
+!s101 -O0
+R10

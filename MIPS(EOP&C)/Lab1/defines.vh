@@ -1,0 +1,2 @@
+`define MUX2IN1_WIDTH 32
+`define SHIFTER_WIDTH 32

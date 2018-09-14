@@ -1,0 +1,17 @@
+module BCDcoder (input [9:0] in, output reg [4:0] out);
+  always @(in) begin
+    case (in)
+      9'b1000000000 : out=5'd9;
+      9'b0100000000 : out=5'd8;
+      9'b0010000000 : out=5'd7;
+      9'b0001000000 : out=5'd6;
+      9'b0000100000 : out=5'd5;
+      9'b0000010000 : out=5'd4;
+      9'b0000001000 : out=5'd3;
+      9'b0000000100 : out=5'd2;
+      9'b0000000010 : out=5'd1;
+      9'b0000000001 : out=5'd0;
+      default : out=5'd0;
+    endcase
+  end
+endmodule

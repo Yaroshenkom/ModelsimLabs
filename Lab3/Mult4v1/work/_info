@@ -1,0 +1,24 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\ModelsimLabs\lab2\task2
+vmultiplexer
+!i10b 1
+!s100 a;mZ@8VYbGPFG5[47TLbc1
+Il2QN3BFhSSiDSg7ijPFO=1
+Z1 V]kFbML6ofzb1SL1Zb1NW92
+Z2 dD:\ModelsimLabs\Lab3\Mult4v1
+w1522188552
+Z3 8D:\ModelsimLabs\Lab3\Mult4v1\mult4v1.v
+Z4 FD:\ModelsimLabs\Lab3\Mult4v1\mult4v1.v
+L0 1
+Z5 OV;L;10.1d;51
+r1
+!s85 0
+31
+!s108 1522188554.273000
+!s107 D:\ModelsimLabs\Lab3\Mult4v1\mult4v1.v|
+Z6 !s90 -reportprogress|300|-work|work|D:\ModelsimLabs\Lab3\Mult4v1\mult4v1.v|
+!s101 -O0
+Z7 o-work work -O0

@@ -1,0 +1,8 @@
+D:/ModelsimLabs/KR1/Task1/test.v {1 {vlog -work work D:/ModelsimLabs/KR1/Task1/test.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module test
+
+Top level modules:
+	test
+
+} {} {}}

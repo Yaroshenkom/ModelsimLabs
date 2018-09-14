@@ -1,0 +1,8 @@
+D:/ModelsimLabs/lab2/task1/task1.v {1 {vlog -work work D:/ModelsimLabs/lab2/task1/task1.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module task1
+
+Top level modules:
+	task1
+
+} {} {}}

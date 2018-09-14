@@ -1,0 +1,36 @@
+D:/ModelsimLabs/Lab7/test.v {1 {vlog -work work D:/ModelsimLabs/Lab7/test.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module test
+
+Top level modules:
+	test
+
+} {} {}} D:/ModelsimLabs/Lab7/CU.v {1 {vlog -work work D:/ModelsimLabs/Lab7/CU.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module CU
+
+Top level modules:
+	CU
+
+} {} {}} D:/ModelsimLabs/Lab7/AU.v {1 {vlog -work work D:/ModelsimLabs/Lab7/AU.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module AU
+
+Top level modules:
+	AU
+
+} {} {}} D:/ModelsimLabs/Lab7/OutMul.v {1 {vlog -work work D:/ModelsimLabs/Lab7/OutMul.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module OutMul
+
+Top level modules:
+	OutMul
+
+} {} {}} D:/ModelsimLabs/Lab7/MU.v {1 {vlog -work work D:/ModelsimLabs/Lab7/MU.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MU
+
+Top level modules:
+	MU
+
+} {} {}}

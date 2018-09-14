@@ -1,0 +1,8 @@
+D:/ModelsimLabs/Lab3/Decoder/MainDec.v {1 {vlog -work work D:/ModelsimLabs/Lab3/Decoder/MainDec.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module BCDcoder
+
+Top level modules:
+	BCDcoder
+
+} {} {}}

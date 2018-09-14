@@ -1,0 +1,4 @@
+force x 0 0ns, 1 40ns
+force y 0 0ns, 1 {20ns} -repeat
+force z 0 0ns, 1 {10ns} -repeat
+run @ 80ns

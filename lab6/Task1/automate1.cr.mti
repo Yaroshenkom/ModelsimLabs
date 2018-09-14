@@ -1,0 +1,15 @@
+D:/ModelsimLabs/lab6/Task1/MyAutomate.v {1 {vlog -work work {D:\ModelsimLabs\lab6\Task1\MyAutomate.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MyAutomate
+
+Top level modules:
+	MyAutomate
+
+} {} {}} D:/ModelsimLabs/lab6/Task1/AutomateTest.v {1 {vlog -work work {D:\ModelsimLabs\lab6\Task1\AutomateTest.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module AutomateTest
+
+Top level modules:
+	AutomateTest
+
+} {} {}}

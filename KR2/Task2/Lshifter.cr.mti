@@ -1,0 +1,15 @@
+D:/ModelsimLabs/KR2/Task2/Test.v {1 {vlog -work work {D:\ModelsimLabs\KR2\Task2\Test.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Test
+
+Top level modules:
+	Test
+
+} {} {}} D:/ModelsimLabs/KR2/Task2/lshifter.v {1 {vlog -work work {D:\ModelsimLabs\KR2\Task2\lshifter.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module lshifter
+
+Top level modules:
+	lshifter
+
+} {} {}}

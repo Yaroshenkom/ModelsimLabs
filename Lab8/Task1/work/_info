@@ -1,0 +1,125 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\ModelsimLabs\Lab7
+vAU
+Z1 !s100 Ko8]XXP0fDJ=M0:Zc2:W<2
+Z2 IRX;Yz:8zUCQXXV8GJc;KF2
+Z3 V`23M2J6=<SHIOLNE2dKBg2
+Z4 dD:\ModelsimLabs\Lab8\Task1
+Z5 w1528191578
+Z6 8D:/ModelsimLabs/Lab8/Task1/AU.v
+Z7 FD:/ModelsimLabs/Lab8/Task1/AU.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|D:/ModelsimLabs/Lab8/Task1/AU.v|
+Z10 o-work work -O0
+n@a@u
+Z11 !s108 1528484082.738000
+Z12 !s107 D:/ModelsimLabs/Lab8/Task1/AU.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vControl_unit
+Z13 IbLPE2fcX:Pk>zW5?JcEM<0
+Z14 V>e4XP2HF]:5Sj<L1F1oC]2
+R4
+Z15 w1528484075
+Z16 8D:/ModelsimLabs/Lab8/Task1/Control_unit.v
+Z17 FD:/ModelsimLabs/Lab8/Task1/Control_unit.v
+L0 1
+R8
+r1
+31
+Z18 !s90 -reportprogress|300|-work|work|D:/ModelsimLabs/Lab8/Task1/Control_unit.v|
+R10
+Z19 n@control_unit
+Z20 !s100 <?Tm4KQ`363kANS2CC^]M3
+Z21 !s108 1528484082.913000
+Z22 !s107 D:/ModelsimLabs/Lab8/Task1/Control_unit.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vProcessor
+Z23 !s100 jzGc2z81Q_nRNOX:JmY=B1
+Z24 IgN5=e89NMXG[6H_Z;oFC42
+Z25 V_m7WGo<^HnHz3^[GI8glD2
+R4
+Z26 w1528414243
+Z27 8D:/ModelsimLabs/Lab8/Task1/Processor.v
+Z28 FD:/ModelsimLabs/Lab8/Task1/Processor.v
+L0 1
+R8
+r1
+31
+Z29 !s90 -reportprogress|300|-work|work|D:/ModelsimLabs/Lab8/Task1/Processor.v|
+R10
+Z30 n@processor
+Z31 !s108 1528484083.063000
+Z32 !s107 D:/ModelsimLabs/Lab8/Task1/Processor.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vProgMem
+!i10b 1
+Z33 !s100 e8FO]Yb_KS3EV@4bLlU`93
+Z34 IoFjeRQk@9WzCPfHG:V@B83
+Z35 Vg:^@NDXN:RMKB0`]lBhaC3
+R4
+Z36 w1528478487
+Z37 8D:\ModelsimLabs\Lab8\Task1\ProgMem.v
+Z38 FD:\ModelsimLabs\Lab8\Task1\ProgMem.v
+L0 1
+R8
+r1
+!s85 0
+31
+!s108 1528484083.361000
+!s107 D:\ModelsimLabs\Lab8\Task1\ProgMem.v|
+Z39 !s90 -reportprogress|300|-work|work|D:\ModelsimLabs\Lab8\Task1\ProgMem.v|
+!s101 -O0
+R10
+Z40 n@prog@mem
+vRegfile_16bit
+Z41 !s100 Y_<mm9F3Wi8=n;ZKMWY`B0
+Z42 IIYPKMADKRHA_o4nS?YKK`1
+Z43 Vg_mzQ2lDE3WejU`LbRz=l3
+R4
+Z44 w1528483587
+Z45 8D:\ModelsimLabs\Lab8\Task1\Regfile_16bit.v
+Z46 FD:\ModelsimLabs\Lab8\Task1\Regfile_16bit.v
+L0 1
+R8
+r1
+31
+Z47 !s90 -reportprogress|300|-work|work|D:\ModelsimLabs\Lab8\Task1\Regfile_16bit.v|
+R10
+Z48 n@regfile_16bit
+Z49 !s108 1528484082.518000
+Z50 !s107 D:\ModelsimLabs\Lab8\Task1\Regfile_16bit.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vTest1
+Z51 !s100 cdW;[_b4iD:?M`<7@f2Vj2
+Z52 I5G=Xz?AEmS?=j0_``IXad2
+Z53 VoHzmTQZemE>YzX:XXC>2e3
+R4
+Z54 w1528478224
+Z55 8D:\ModelsimLabs\Lab8\Task1\Test1.v
+Z56 FD:\ModelsimLabs\Lab8\Task1\Test1.v
+L0 3
+R8
+r1
+31
+Z57 !s90 -reportprogress|300|-work|work|D:\ModelsimLabs\Lab8\Task1\Test1.v|
+R10
+Z58 n@test1
+!i10b 1
+!s85 0
+Z59 !s108 1528484083.206000
+Z60 !s107 D:\ModelsimLabs\Lab8\Task1\Test1.v|
+!s101 -O0

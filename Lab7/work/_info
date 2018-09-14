@@ -1,0 +1,104 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\ModelsimLabs\KR2\Task1
+vAU
+Z1 IAoogCjEKe<3U]zdJP1d]I2
+Z2 VYbDYY^=;204X8YnD>objf3
+Z3 dD:\ModelsimLabs\Lab7
+Z4 w1527016413
+Z5 8D:/ModelsimLabs/Lab7/AU.v
+Z6 FD:/ModelsimLabs/Lab7/AU.v
+L0 1
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 o-work work -O0
+n@a@u
+Z9 !s100 m4WgO:0=o:zDb9Rhc[hz11
+Z10 !s108 1527053660.560000
+Z11 !s107 D:/ModelsimLabs/Lab7/AU.v|
+Z12 !s90 -reportprogress|300|-work|work|D:/ModelsimLabs/Lab7/AU.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vCU
+Z13 IEVAO<Hd6cSJnk_WO5SHm:2
+Z14 VDLMPlPXXV3V`e]:Hcm6G;1
+R3
+Z15 w1527015823
+Z16 8D:/ModelsimLabs/Lab7/CU.v
+Z17 FD:/ModelsimLabs/Lab7/CU.v
+L0 1
+R7
+r1
+31
+R8
+n@c@u
+Z18 !s100 F^W1Dd[We4Lcc0Pk7k1gg3
+Z19 !s108 1527053660.404000
+Z20 !s107 D:/ModelsimLabs/Lab7/CU.v|
+Z21 !s90 -reportprogress|300|-work|work|D:/ModelsimLabs/Lab7/CU.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vMU
+Z22 In2MIiSGKm?6bfo9g0AET71
+Z23 VfYWZPhP1@@6Xj0=IUWif;0
+R3
+Z24 w1527015840
+Z25 8D:/ModelsimLabs/Lab7/MU.v
+Z26 FD:/ModelsimLabs/Lab7/MU.v
+L0 1
+R7
+r1
+31
+R8
+n@m@u
+Z27 !s100 4ni=n4jFj:9^D3Ue831l]3
+Z28 !s108 1527053660.690000
+Z29 !s107 D:/ModelsimLabs/Lab7/MU.v|
+Z30 !s90 -reportprogress|300|-work|work|D:/ModelsimLabs/Lab7/MU.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vOutMul
+Z31 IWlFlXo9DX7icXSzS7DG^62
+Z32 Vo@:@BEVkQFGJN1jn:DkZ@3
+R3
+Z33 w1527015750
+Z34 8D:/ModelsimLabs/Lab7/OutMul.v
+Z35 FD:/ModelsimLabs/Lab7/OutMul.v
+L0 1
+R7
+r1
+31
+R8
+Z36 n@out@mul
+!i10b 1
+Z37 !s100 CV34:Ic;5Ya_mnBe[_z390
+!s85 0
+Z38 !s108 1527053660.844000
+Z39 !s107 D:/ModelsimLabs/Lab7/OutMul.v|
+Z40 !s90 -reportprogress|300|-work|work|D:/ModelsimLabs/Lab7/OutMul.v|
+!s101 -O0
+vtest
+!i10b 1
+!s100 d_4`L?R6dIe:O12oi?HRQ0
+Il1TAO=0U:n0T[PhP58jO=2
+Z41 VjkT;E_A<o:h0[X3=JRBCV3
+R3
+Z42 w1527016091
+8D:/ModelsimLabs/Lab7/test.v
+FD:/ModelsimLabs/Lab7/test.v
+L0 3
+R7
+r1
+!s85 0
+31
+!s108 1527053661.165000
+!s107 D:/ModelsimLabs/Lab7/test.v|
+!s90 -reportprogress|300|-work|work|D:/ModelsimLabs/Lab7/test.v|
+!s101 -O0
+R8

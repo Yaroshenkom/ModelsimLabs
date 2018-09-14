@@ -1,0 +1,74 @@
+D:/ModelsimLabs/MIPS(EOP&C)/Lab1/pc.v {1 {vlog -work work D:/ModelsimLabs/MIPS(EOP&C)/Lab1/pc.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module pc
+
+Top level modules:
+	pc
+
+} {} {}} D:/ModelsimLabs/MIPS(EOP&C)/Lab1/mux2in1_test.v {1 {vlog -work work {D:\ModelsimLabs\MIPS(EOP&C)\Lab1\mux2in1_test.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module mux2in1_test
+
+Top level modules:
+	mux2in1_test
+
+} {} {}} D:/ModelsimLabs/MIPS(EOP&C)/Lab1/SignExtend_test.v {1 {vlog -work work {D:\ModelsimLabs\MIPS(EOP&C)\Lab1\SignExtend_test.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module SignExtend_test
+
+Top level modules:
+	SignExtend_test
+
+} {} {}} D:/ModelsimLabs/MIPS(EOP&C)/Lab1/mux2in1.v {1 {vlog -work work D:/ModelsimLabs/MIPS(EOP&C)/Lab1/mux2in1.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module mux2in1
+
+Top level modules:
+	mux2in1
+
+} {} {}} D:/ModelsimLabs/MIPS(EOP&C)/Lab1/SignExtend.v {1 {vlog -work work D:/ModelsimLabs/MIPS(EOP&C)/Lab1/SignExtend.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module SignExtend
+
+Top level modules:
+	SignExtend
+
+} {} {}} D:/ModelsimLabs/MIPS(EOP&C)/Lab1/ShiftLeftBy2_test.v {1 {vlog -work work D:/ModelsimLabs/MIPS(EOP&C)/Lab1/ShiftLeftBy2_test.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ShiftLeftBy2_test
+
+Top level modules:
+	ShiftLeftBy2_test
+
+} {} {}} D:/ModelsimLabs/MIPS(EOP&C)/Lab1/RegFile_test.v {1 {vlog -work work D:/ModelsimLabs/MIPS(EOP&C)/Lab1/RegFile_test.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module RegFile_test
+
+Top level modules:
+	RegFile_test
+
+} {} {}} D:/ModelsimLabs/MIPS(EOP&C)/Lab1/RegFile.v {1 {vlog -work work D:/ModelsimLabs/MIPS(EOP&C)/Lab1/RegFile.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module RegFile
+
+Top level modules:
+	RegFile
+
+} {} {}} D:/ModelsimLabs/MIPS(EOP&C)/Lab1/ShiftLeftBy2.v {1 {vlog -work work {D:\ModelsimLabs\MIPS(EOP&C)\Lab1\ShiftLeftBy2.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ShiftLeftBy2
+
+Top level modules:
+	ShiftLeftBy2
+
+} {} {}} D:/ModelsimLabs/MIPS(EOP&C)/Lab1/pc_test.v {1 {vlog -work work D:/ModelsimLabs/MIPS(EOP&C)/Lab1/pc_test.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module pc_test
+
+Top level modules:
+	pc_test
+
+} {} {}} D:/ModelsimLabs/MIPS(EOP&C)/Lab1/defines.vh {1 {vlog -work work D:/ModelsimLabs/MIPS(EOP&C)/Lab1/defines.vh
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+
+} {} {}}

@@ -1,0 +1,8 @@
+D:/ModelsimLabs/Verilog/Exercises/Info_for_practic/Lab1/mult_acc.v {1 {vlog -work work D:/ModelsimLabs/Verilog/Exercises/Info_for_practic/Lab1/mult_acc.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module mult_acc
+
+Top level modules:
+	mult_acc
+
+} {} {}}

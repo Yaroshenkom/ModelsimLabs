@@ -1,0 +1,241 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\ModelsimLabs\Exam\Task1
+vmux2in1
+Z1 !s100 @Cg`^YTIj2W`n2in1cXJ;1
+Z2 IgUnak>Uaa8]:j:I1iD?UX0
+Z3 VOL>H2d10IaoQHzdIHQe7F1
+Z4 dD:\ModelsimLabs\MIPS(EOP&C)\Lab1
+Z5 w1536421817
+Z6 8D:/ModelsimLabs/MIPS(EOP&C)/Lab1/mux2in1.v
+Z7 FD:/ModelsimLabs/MIPS(EOP&C)/Lab1/mux2in1.v
+L0 3
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|D:/ModelsimLabs/MIPS(EOP&C)/Lab1/mux2in1.v|
+Z10 o-work work -O0
+Z11 !s108 1536575451.910000
+Z12 !s107 defines.vh|D:/ModelsimLabs/MIPS(EOP&C)/Lab1/mux2in1.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmux2in1_test
+Z13 IU7SzTEDfZIXRfJefenz5C3
+Z14 V=NVP2eRA[2RnJm:<;iaz]3
+R4
+Z15 w1536423080
+Z16 8D:\ModelsimLabs\MIPS(EOP&C)\Lab1\mux2in1_test.v
+Z17 FD:\ModelsimLabs\MIPS(EOP&C)\Lab1\mux2in1_test.v
+L0 4
+R8
+r1
+31
+R10
+Z18 !s100 :<O:G9MN^LfiRhFiIUVTh0
+Z19 !s108 1536575452.140000
+Z20 !s107 defines.vh|D:\ModelsimLabs\MIPS(EOP&C)\Lab1\mux2in1_test.v|
+Z21 !s90 -reportprogress|300|-work|work|D:\ModelsimLabs\MIPS(EOP&C)\Lab1\mux2in1_test.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vpc
+Z22 !s100 849Ym4O^05Dl;>@gV]L6k1
+Z23 Iaz7L9mjDaIL;i^WmK@Qn51
+Z24 V?ce]d0]dDXbJ[eSnAg^d`0
+R4
+Z25 w1536573869
+Z26 8D:/ModelsimLabs/MIPS(EOP&C)/Lab1/pc.v
+Z27 FD:/ModelsimLabs/MIPS(EOP&C)/Lab1/pc.v
+L0 1
+R8
+r1
+31
+Z28 !s90 -reportprogress|300|-work|work|D:/ModelsimLabs/MIPS(EOP&C)/Lab1/pc.v|
+R10
+Z29 !s108 1536575452.620000
+Z30 !s107 D:/ModelsimLabs/MIPS(EOP&C)/Lab1/pc.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vpc_test
+Z31 !s100 f?H`b3KWlgE6JdG_inS6l3
+Z32 I4;:JDOZ[?Z^50N=58cWTB3
+Z33 VUH9@FWIz0cW>nA:?UlR:_0
+R4
+Z34 w1536573941
+Z35 8D:/ModelsimLabs/MIPS(EOP&C)/Lab1/pc_test.v
+Z36 FD:/ModelsimLabs/MIPS(EOP&C)/Lab1/pc_test.v
+L0 3
+R8
+r1
+31
+Z37 !s90 -reportprogress|300|-work|work|D:/ModelsimLabs/MIPS(EOP&C)/Lab1/pc_test.v|
+R10
+Z38 !s108 1536575452.950000
+Z39 !s107 D:/ModelsimLabs/MIPS(EOP&C)/Lab1/pc_test.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vRegFile
+!i10b 1
+!s100 KaKZ?K0;m846::A5^gRH]0
+If0k]R<bbWmTN`^BLXRIKD0
+Z40 Ve7>9_XGP[i@kjie0l;AfT2
+R4
+w1536576419
+Z41 8D:/ModelsimLabs/MIPS(EOP&C)/Lab1/RegFile.v
+Z42 FD:/ModelsimLabs/MIPS(EOP&C)/Lab1/RegFile.v
+L0 2
+R8
+r1
+!s85 0
+31
+!s108 1536576429.201000
+!s107 D:/ModelsimLabs/MIPS(EOP&C)/Lab1/RegFile.v|
+Z43 !s90 -reportprogress|300|-work|work|D:/ModelsimLabs/MIPS(EOP&C)/Lab1/RegFile.v|
+!s101 -O0
+R10
+Z44 n@reg@file
+vregFile
+Z45 !s100 4hCJdHIKgnFdm6RbCaz2R0
+Z46 I<:3jClog8:OR@[8Be]IjB1
+Z47 V58Gk[mW[KeEzj6mY=GC`;2
+R4
+Z48 w1536494299
+R41
+R42
+L0 2
+R8
+r1
+31
+R43
+R10
+Z49 nreg@file
+Z50 !s108 1536498145.201000
+Z51 !s107 D:/ModelsimLabs/MIPS(EOP&C)/Lab1/RegFile.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vRegFile_test
+Z52 !s100 aPD0nbB9=@mD9Rbk@P6KV3
+Z53 I=;MS9HI]g3WZakE@a1f>=0
+Z54 VcPcz8L987o[gjc1mEThG63
+R4
+Z55 w1536498078
+Z56 8D:/ModelsimLabs/MIPS(EOP&C)/Lab1/RegFile_test.v
+Z57 FD:/ModelsimLabs/MIPS(EOP&C)/Lab1/RegFile_test.v
+L0 5
+R8
+r1
+31
+Z58 !s90 -reportprogress|300|-work|work|D:/ModelsimLabs/MIPS(EOP&C)/Lab1/RegFile_test.v|
+R10
+Z59 n@reg@file_test
+Z60 !s108 1536575453.480000
+Z61 !s107 D:/ModelsimLabs/MIPS(EOP&C)/Lab1/RegFile_test.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vShiftLeftBy2
+Z62 !s100 WDl6n^=k:8]E[__]ddDQ?1
+Z63 IjemXY;PZ>aC>EO`?DQ56<3
+Z64 Vi2B<KEnUk@GBLQ[kz_RTH2
+R4
+Z65 w1536574450
+Z66 8D:\ModelsimLabs\MIPS(EOP&C)\Lab1\ShiftLeftBy2.v
+Z67 FD:\ModelsimLabs\MIPS(EOP&C)\Lab1\ShiftLeftBy2.v
+L0 3
+R8
+r1
+31
+Z68 !s90 -reportprogress|300|-work|work|D:\ModelsimLabs\MIPS(EOP&C)\Lab1\ShiftLeftBy2.v|
+R10
+Z69 n@shift@left@by2
+Z70 !s108 1536575453.790000
+Z71 !s107 defines.vh|D:\ModelsimLabs\MIPS(EOP&C)\Lab1\ShiftLeftBy2.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vShiftLeftBy2_test
+Z72 !s100 DFMdKPbU30d618h7loWZi0
+Z73 IRM_A@VD6=_CkJhaNLM0SA2
+Z74 VVFVfL[eiZozD97b`oOMD50
+R4
+Z75 w1536502014
+Z76 8D:/ModelsimLabs/MIPS(EOP&C)/Lab1/ShiftLeftBy2_test.v
+Z77 FD:/ModelsimLabs/MIPS(EOP&C)/Lab1/ShiftLeftBy2_test.v
+L0 4
+R8
+r1
+31
+Z78 !s90 -reportprogress|300|-work|work|D:/ModelsimLabs/MIPS(EOP&C)/Lab1/ShiftLeftBy2_test.v|
+R10
+Z79 n@shift@left@by2_test
+Z80 !s108 1536575454.060000
+Z81 !s107 defines.vh|D:/ModelsimLabs/MIPS(EOP&C)/Lab1/ShiftLeftBy2_test.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vSignExtend
+Z82 !s100 C82mBci>KfohMSK80c]LR2
+Z83 I>j2IAgJNadN[P6mZ:;KOh3
+Z84 VR50<38z_IhdkgD?:GFli63
+R4
+Z85 w1536575127
+Z86 8D:/ModelsimLabs/MIPS(EOP&C)/Lab1/SignExtend.v
+Z87 FD:/ModelsimLabs/MIPS(EOP&C)/Lab1/SignExtend.v
+L0 1
+R8
+r1
+31
+Z88 !s90 -reportprogress|300|-work|work|D:/ModelsimLabs/MIPS(EOP&C)/Lab1/SignExtend.v|
+R10
+Z89 n@sign@extend
+Z90 !s108 1536575454.370000
+Z91 !s107 D:/ModelsimLabs/MIPS(EOP&C)/Lab1/SignExtend.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vsignExtend
+Z92 I3<>[5YSO5BK@;>L8`6=D_1
+Z93 VdGiVJ_Y6?=Simm9dPnkWz3
+R4
+Z94 w1536505836
+Z95 8D:\ModelsimLabs\MIPS(EOP&C)\Lab1\SignExtend.v
+Z96 FD:\ModelsimLabs\MIPS(EOP&C)\Lab1\SignExtend.v
+L0 1
+R8
+r1
+31
+R10
+Z97 nsign@extend
+Z98 !s100 H1WW?oN0SmaR]h[Me7[Ba0
+Z99 !s108 1536505847.409000
+Z100 !s107 D:\ModelsimLabs\MIPS(EOP&C)\Lab1\SignExtend.v|
+Z101 !s90 -reportprogress|300|-work|work|D:\ModelsimLabs\MIPS(EOP&C)\Lab1\SignExtend.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vSignExtend_test
+Z102 IaICZ^fR:c2APJk2ONNGCI3
+Z103 VVbFJ:SVdKLCo61Fd38[3m1
+R4
+Z104 w1536575443
+Z105 8D:\ModelsimLabs\MIPS(EOP&C)\Lab1\SignExtend_test.v
+Z106 FD:\ModelsimLabs\MIPS(EOP&C)\Lab1\SignExtend_test.v
+L0 3
+R8
+r1
+31
+Z107 !s90 -reportprogress|300|-work|work|D:\ModelsimLabs\MIPS(EOP&C)\Lab1\SignExtend_test.v|
+R10
+Z108 n@sign@extend_test
+!i10b 1
+Z109 !s100 MzOC6E_hoS>TLXHh>3B>U3
+!s85 0
+Z110 !s108 1536575454.620000
+Z111 !s107 D:\ModelsimLabs\MIPS(EOP&C)\Lab1\SignExtend_test.v|
+!s101 -O0

@@ -1,0 +1,15 @@
+D:/ModelsimLabs/lab4/Task1/tester.v {1 {vlog -work work D:/ModelsimLabs/lab4/Task1/tester.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module tester
+
+Top level modules:
+	tester
+
+} {} {}} D:/ModelsimLabs/lab4/Task1/Register.v {1 {vlog -work work D:/ModelsimLabs/lab4/Task1/Register.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Register
+
+Top level modules:
+	Register
+
+} {} {}}

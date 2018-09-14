@@ -1,0 +1,44 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\ModelsimLabs\lab4\Task1
+vCounter
+Z1 !s100 UYon9eBAVLUdWJ[;nP8:i1
+Z2 IDg2?E1U2LgaIj2c9mHjF03
+Z3 VHDTghE24;[e2[O:]16hB=2
+Z4 dD:\ModelsimLabs\lab4\Task2
+Z5 w1523426502
+Z6 8D:\ModelsimLabs\lab4\Task2\Counter.v
+Z7 FD:\ModelsimLabs\lab4\Task2\Counter.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|D:\ModelsimLabs\lab4\Task2\Counter.v|
+Z10 o-work work -O0
+Z11 n@counter
+!i10b 1
+!s85 0
+Z12 !s108 1523426842.870000
+Z13 !s107 D:\ModelsimLabs\lab4\Task2\Counter.v|
+!s101 -O0
+vctester
+!i10b 1
+!s100 k7MF`kRfKKD5z68IYe0<_0
+IHAUFIWWC54^7hTiF5TQAV3
+Z14 VjI8PIHijCU2zl7^HZBP6Q3
+R4
+w1523426835
+8D:/ModelsimLabs/lab4/Task2/ctester.v
+FD:/ModelsimLabs/lab4/Task2/ctester.v
+L0 3
+R8
+r1
+!s85 0
+31
+!s108 1523426843.102000
+!s107 D:/ModelsimLabs/lab4/Task2/ctester.v|
+!s90 -reportprogress|300|-work|work|D:/ModelsimLabs/lab4/Task2/ctester.v|
+!s101 -O0
+R10

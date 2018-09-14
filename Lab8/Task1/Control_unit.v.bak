@@ -1,0 +1,78 @@
+module Control_unit(
+  input wire [8:0] IR_in,
+  input Run, clk, Reset,
+  output reg Done,
+  output reg [4:0] adr,
+  output reg [0:9] we,
+  output reg AddSubb;);
+  
+  reg IR_we;
+  reg [8:0] IR;
+  reg [1:0] Counter;
+  
+  always @(posedge clk) if (IR_we) IR<=IR_in;
+  always @(posedge Run)
+  begin
+    case(IR[8:6])
+      0,1: Counter<=1;
+      2,3: Counter<=3;
+    endcase
+  end
+  
+  always @(posedge clk)
+  begin
+    case(Counter)
+      1:begin
+          if (IR[8:6]==3 || IR[8:6]==2)
+            begin
+              adr<=8;
+              we<=IR[5:3];
+              Counter<=Counter-1;
+              Done<=1;
+            end
+             else if (IR[8:6]==1)
+            begin
+              adr<=9;
+              we<=IR[5:3];
+              Counter<=Counter-1;
+              Done<=1;
+            end
+          else if (IR[8:6]==0)
+            begin
+              adr<=IR[2:0];
+              we<=IR[5:3];
+              Counter<=Counter-1;
+              Done<=1;
+            end
+        end
+      2:begin 
+          if (IR[8:6]==3 || IR[8:6]==2)
+            begin
+              adr<=IR[2:0];
+              if (IR[8:6]==3) AddSubb<=1;
+              else if (IR[8:6]==2) AddSubb<=0;
+              we<=9;
+              Counter<=Counter-1;
+            end
+        end
+      3:begin
+          if (IR[8:6]==3 || IR[8:6]==2)
+            begin
+              adr<=IR[5:3];
+              we<=8;
+              Counter<=Counter-1;
+            end
+          end
+      endcase
+    end
+    
+    always @(posedge Reset)
+    begin
+      Done<=0;
+      adr<=0;
+      we<=0;
+      IR<=0;
+      Counter<=0;
+      AddSubb<=0;
+    end
+endmodule

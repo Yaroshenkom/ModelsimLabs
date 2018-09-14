@@ -1,0 +1,45 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\ModelsimLabs\lab6\Task1
+vAutomate
+Z1 Ial@HFZXO]ONT_=K8TU^ik2
+Z2 VmO6JZdo]S1_V:h;T=@KEN0
+Z3 dD:\ModelsimLabs\lab6\Task2
+Z4 w1526295454
+Z5 8D:\ModelsimLabs\lab6\Task2\Automate.v
+Z6 FD:\ModelsimLabs\lab6\Task2\Automate.v
+L0 1
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 !s90 -reportprogress|300|-work|work|D:\ModelsimLabs\lab6\Task2\Automate.v|
+Z9 o-work work -O0
+Z10 n@automate
+!i10b 1
+Z11 !s100 F^7Tikd3`JUZB;aa5PAa22
+!s85 0
+Z12 !s108 1526295457.288000
+Z13 !s107 D:\ModelsimLabs\lab6\Task2\Automate.v|
+!s101 -O0
+vAutomateTest
+!i10b 1
+Z14 !s100 k[ZaW@5JMi:__5hm[5B@D3
+Z15 IDMPEZK<KSLG@;aYZ??D6m3
+Z16 ViWQH9C@1z]D66MTVgFLPX0
+R3
+Z17 w1526294873
+Z18 8D:\ModelsimLabs\lab6\Task2\Test.v
+Z19 FD:\ModelsimLabs\lab6\Task2\Test.v
+L0 2
+R7
+r1
+!s85 0
+31
+!s108 1526295457.475000
+!s107 D:\ModelsimLabs\lab6\Task2\Test.v|
+Z20 !s90 -reportprogress|300|-work|work|D:\ModelsimLabs\lab6\Task2\Test.v|
+!s101 -O0
+R9
+Z21 n@automate@test

@@ -1,0 +1,15 @@
+D:/ModelsimLabs/lab4/Task2/ctester.v {1 {vlog -work work D:/ModelsimLabs/lab4/Task2/ctester.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ctester
+
+Top level modules:
+	ctester
+
+} {} {}} D:/ModelsimLabs/lab4/Task2/Counter.v {1 {vlog -work work {D:\ModelsimLabs\lab4\Task2\Counter.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Counter
+
+Top level modules:
+	Counter
+
+} {} {}}

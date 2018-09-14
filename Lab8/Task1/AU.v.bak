@@ -1,0 +1,7 @@
+module AU(
+  input wire AddSub,
+  input wire [15:0] A_in, R_in,
+  output wire [15:0] out);
+  
+  assign out=A_in+(AddSub?(~R_in):R_in)+AddSub;
+endmodule
